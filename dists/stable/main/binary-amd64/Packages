@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: Jagadish Tripathy <jagadishtripathyforyou@gmail.com>
 Installed-Size: 217
 Depends: python3-gi, python3:any (>= 3.6~), gir1.2-gtk-3.0, gir1.2-gtksource-4 | gir1.2-gtksource-3.0, gir1.2-webkit2-4.1 | gir1.2-webkit2-4.0, python3-markdown
-Filename: ./zenpad_1.3.0_all.deb
+Filename: pool/main/z/zenpad/zenpad_1.3.0_all.deb
 Size: 39430
 MD5sum: 339c772ab60c57c7b11d29041d4c138a
 SHA1: 54946b3182060dc716d586ecb0755ae72526feb4
