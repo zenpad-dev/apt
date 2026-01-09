@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 09 Jan 2026 15:23:52 +0000
+MD5Sum:
+ c279d262074b67ecd7baa39a0e588084               38 Release
+ 6cc48674d5d938722469123b91946eed              724 main/binary-amd64/Packages
+ 6d11b6ec515ecf93c2bd43570ab2bc82              502 main/binary-amd64/Packages.gz
+SHA1:
+ 7a8ee740d84f0bf2240f6614aedef265d15b2d91               38 Release
+ 570cc9ff0bf04fff52ff46d2d76d51c5fa4ec542              724 main/binary-amd64/Packages
+ 726edb38245306a6a01da47dfda4754306b4baae              502 main/binary-amd64/Packages.gz
+SHA256:
+ 7a7610fb2dd526bd614ec103203af72e7c0a1e3be9c5b421eae5c0bc3249d629               38 Release
+ 484b25a31c6ab3f0bda6af118e04d84376c8c8dac707a1ad1f5444902146fe9e              724 main/binary-amd64/Packages
+ 42d3d245cbadd16e5de7fe7c617ea52f3342e1e3f4d9ed8ae2812ac1f20d48ac              502 main/binary-amd64/Packages.gz
+SHA512:
+ fe3382e84c971574191af4be6d37bdc0d972d9d078c5ab19f5e67843080561b4e12314de651d6c3dabf055185cd6bcefe61d8254529a714198a65cecf02ff275               38 Release
+ 373fa1f415290e9a3cbb44d958ed432aace1bd71b5aad0fc64895c0a21c16e4e8f9d9a90fb858bcfde2f3b65df22b1375cdc5063d67692e6ae8d06c29f38c846              724 main/binary-amd64/Packages
+ 9f66b8f5203bc9ba48976a52f78147276e65094c505fcb797e99187d22a16e142065e88201befa40929147b5973023ad43888f2b1e84807a1dd38ba6302caa90              502 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJNBAEBCgA3FiEE0iWMd/wChW3/hJdU5oknYUfDfwoFAmlhHo8ZHGFwdEB6ZW5w
+YWQtZGV2LmdpdGh1Yi5pbwAKCRDmiSdhR8N/ChsDD/9WsNOfT9tSq1HASlnyF6Vh
+NEcYBDvXU02f565PG6esztKLg/cBhZRuHSKH+7kG5TKZFpY3OrggEX7GJPQmOatU
+Kyno8spAYMKVCLp2QLk7CiEF5y9cZbfcSvBjfKJNfUWp6BNBDwjCvMkLpdi6Q+d0
+x4LhJkzdq4Bkm7loaUrMlqY3D7ujR7y1CDETD2nMIi4e+e+JQCETrIzOTWxx/ql+
+dM0Dwrcj4kXUkSN3BXoSMJjS4X9CZxYQyqVo5wnjM/82nTwKgSiE7X0CtnzG0Y8u
+yy3hEILPBOiL7XNw17sFpK/3DvxMLvYGylS3dvAyw/hnmWeCKnSeanItTq8PfWjg
+FuvaOcgKPz9VnT5OfqrOyN07gleTD2+gyqLOvyBv4xaTmy6nBiyCvFOm+vIZdI1Z
+Wt1EasAKZzGH4lJrv47Jgs/F/zW2lHWeh8Ywz6vtSzavY5n/CWNpA+QPFFl9ND32
+6t6R6r+jubxYu9TyeEBRh33RZ3bPVq240lQNHcmM6V3fjhMKC14gSarnkw5hNTII
+QISpgbNO5GjnAPDj5QLyRFCxCxcAJsHpe5VaiPdxAZ1ydpBJ6Uk3GJqJiqFoIp10
+BNlB7i48HoXRm5rKovA0UMpGUIVvVhRKnlS75PNcifPrijRffh9dpHaGIOaKmJmD
+3FCS1gBpXew6uyyeMJGTgg==
+=KOxl
+-----END PGP SIGNATURE-----
