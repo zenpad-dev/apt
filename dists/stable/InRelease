@@ -1,37 +1,44 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Fri, 09 Jan 2026 15:40:54 +0000
+Origin: Zenpad
+Label: Zenpad APT Repository
+Suite: stable
+Codename: stable
+Architectures: amd64 all
+Components: main
+Description: Official APT repository for Zenpad
+Date: Sat, 10 Jan 2026 14:42:43 +0000
 MD5Sum:
- 4cca617e7c139fa104c14870b6ad88b7               38 Release
+ 1ab34ed1faaaa33f901084999f18127e             1348 Release
  8fb1af70d2ab41966f40de6a93b437ec              741 main/binary-amd64/Packages
  658641368a77aa12f14d0afb702fee43              512 main/binary-amd64/Packages.gz
 SHA1:
- 7275920a6379b22cd40eb868037d8884350c9858               38 Release
+ a0be190da5fab68cf6401f233368d6dbca5378d4             1348 Release
  e308a850b22680086d42157abef949b84d1ca30b              741 main/binary-amd64/Packages
  f7d776acc0f872184727769033012169dbbb2899              512 main/binary-amd64/Packages.gz
 SHA256:
- 193a9312972781bd605a1adc2f8aa1efcaf5cbf560459064728e7a921439fa1f               38 Release
+ acc469620f91c5a080e3853dd7f5f926101e5818a8410a567d6051f43bb89936             1348 Release
  3a9d14dd556f8d8a63985023447f0750cc172be84d2bc3a36ed3bf8f5b786e14              741 main/binary-amd64/Packages
  61b26b7f25628460a6f0d106fa292077767fa5d867d0f91556fba93e379b93e6              512 main/binary-amd64/Packages.gz
 SHA512:
- edd677c7df8516bc5e937d9406ab2da657071faaab645db17197ffd2031820e9af969ec0210cc9c421f5a2f8a72185c667edafbe262840ddb423a7129d1a6358               38 Release
+ b3031e07a325fa8277ab9a6adf69f9d95e4df5228ba24ac92272899a05343db2efee3790ee91a0cb0abf81a706a5158062e21887f9fc24e68caceb9fa9f2ebcd             1348 Release
  f96d91a506fdb540d2d232ab8265041c3b7653a150e70c19b3920f3b2fff4c80bfb5cd0a7fb09c569cbbaa81a5af28393716c2832ad4e7d1aa5924c36adaa803              741 main/binary-amd64/Packages
  85733338814816a45dd2942277b55782f870af161c23ef08942c77ba6fb58797fa05510378b43c4261d880b4a27589e73338483024d986c2a2376d36c98028c5              512 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJNBAEBCgA3FiEE0iWMd/wChW3/hJdU5oknYUfDfwoFAmlhIYYZHGFwdEB6ZW5w
-YWQtZGV2LmdpdGh1Yi5pbwAKCRDmiSdhR8N/Cp3qD/9MxTp3V0P5WtAFaEXopQz8
-vfHOHzIGWsB/Gm2FzOUo8kpqpX10ZYPIs7M+Cdknk2wICqnQMWyNhrJPK0gIb3ra
-Kb0a1zfkF+b7lDD+nM3qGHV9iDq6nOjHypgv9pQEFYQLPBko1khwVTlxRVZtMZVX
-VWr1MazTrMEzrgA2CnOHEoB4ikLDnosKhzQE9f/Kc5/1GJ9PJFmcr5aPfAj3u0YC
-yl/NrCikXxOjvuZuAYM09E3V7tc0rUbQSEqGUlTFY08kdIkIA3u2o2gaaYwKoZmJ
-R7K+vGiylYc1W/DnOsU2VOkd/NjXIcEyY1Ve6vCfgzfWcrm3i8Mh8N2TQLkyBF80
-sz7T7kEGIJqxjCgP68unuJ9+yo6VRlibBKtQFgbCKHXwfgG/fJDOhsQlGvhO1Mho
-36mI/viiCxjIdKtgA8sig11N4uZo8jZGKBymZcyup5Xmioe4mfsnHKX0EM6YHOKe
-MnvEPlbdy6VwrTnIxPHpjcDWKrTN45vZsD7cHlwDtXCrw7eVs7+paZS2SKH04PB1
-jqCTxpYwHnNTbAHxiFhDY2dmf0V3Wo2tWT2dgglQxDSPOGlKqh9fh9PJRqMEH3wg
-9k5YwcV7xLChL+oKm74L0gfFAJUlfNMcvrYM7umyBrFeny6GgFBKyHop928r272F
-ax05OFWpXAGLwzwGYO0SAw==
-=GwCm
+iQJNBAEBCgA3FiEE0iWMd/wChW3/hJdU5oknYUfDfwoFAmliZXEZHGFwdEB6ZW5w
+YWQtZGV2LmdpdGh1Yi5pbwAKCRDmiSdhR8N/CnAUEACFQs/YIZ4sfapyFsBGUH3+
+enMrM1Ws38DZ6TqNXHdrlcdjYezUyyFmDr66hY4AETsESF2OlKeRbndaAbgbcXGE
+8yHMu+zQjeiAsAqsxcAgYhsrY9smR4yXxIVjYQhtxDV3fiigTyOg6l5DDg5PcK/Z
+vEEpoHmdnfCYgyGOOG/w1J1uU8lVJrILSNlx0LAXxGzeLnj1z5yieJqOg/h2tG6+
+0E256lhLcO3GNuzi0T54oNIvvy2+WGQuEaM3tQqXhEImjsD+t5lSFC4xMmkZdSCL
+3OfrB6nVrSWZXpWNBQTd1FUJPXLtmB1YZU2ZEl7YrYBVex7R0w+pKGUaxa1f5p8q
+zwcmmBV7eHRsF8KDqS/EdycsC8Y+5qJ6B3KR95cNGIzl6CwXlS76GI9HAru/KbfA
+XaeUug4o7zpHkWwCK0UIDWo7nDPWC9wOfXgMNc5jYyA33lo05U2wW+MniZq+WkoK
+eO34brvxt5e6qkDlcY4JFJ3MhEicbraE7vD0yVB9Gmfb1HWtqdRui4IfSj9m2VZw
+QaRNN+fkFtKWovrzxbPFcy6zDllOBZAPHMH/UmfBe1RnkL28Arfd+KpdgtgWUJki
+1ahg8dlK4edROcwjdtqQbD7/+n14QzL52ouczshgw8QxLputtmD6eDAkebb0tTx5
+dmaKfdPi9RqhncVnNncawA==
+=cyG1
 -----END PGP SIGNATURE-----
