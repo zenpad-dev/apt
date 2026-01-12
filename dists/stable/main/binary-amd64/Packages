@@ -15,3 +15,20 @@ Description: Lightweight text editor based on GTK+
  Zenpad is a modern, lightweight text editor designed for efficiency and aesthetics.
  It features syntax highlighting, tabs, and more.
 
+Package: zenpad
+Version: 1.4.0
+Architecture: all
+Maintainer: Jagadish Tripathy <jagadishtripathyforyou@gmail.com>
+Installed-Size: 246
+Depends: python3-gi, python3:any (>= 3.6~), gir1.2-gtk-3.0, gir1.2-gtksource-4 | gir1.2-gtksource-3.0, gir1.2-webkit2-4.1 | gir1.2-webkit2-4.0, python3-markdown
+Filename: pool/main/z/zenpad/zenpad_1.4.0_all.deb
+Size: 42626
+MD5sum: d6deda59f43fd239cc4a86b6a584617a
+SHA1: d16ac7950b2c9df0d20857268cf38e8ea2e61af1
+SHA256: f2ab7fdb5db21ee37276d9828258f1f85c47b617ac7ba807490da0e826665314
+Section: editors
+Priority: optional
+Description: Lightweight text editor based on GTK+
+ Zenpad is a modern, lightweight text editor designed for efficiency and aesthetics.
+ It features syntax highlighting, tabs, and more.
+
