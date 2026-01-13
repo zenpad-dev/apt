@@ -33,16 +33,16 @@ Description: Lightweight text editor based on GTK+
  It features syntax highlighting, tabs, and more.
 
 Package: zenpad
-Version: 1.4.1
+Version: 1.5.0
 Architecture: all
 Maintainer: Jagadish Tripathy <jagadishtripathyforyou@gmail.com>
-Installed-Size: 246
+Installed-Size: 254
 Depends: python3-gi, python3:any (>= 3.6~), gir1.2-gtk-3.0, gir1.2-gtksource-4 | gir1.2-gtksource-3.0, gir1.2-webkit2-4.1 | gir1.2-webkit2-4.0, python3-markdown
-Filename: pool/main/z/zenpad/zenpad_1.4.1_all.deb
-Size: 42704
-MD5sum: fcf80d8590d0e88501815ae817fee96f
-SHA1: 4a97e17e11995ea435e4397dd22c0d754dc5c316
-SHA256: 97eb807be95813a549b6e3fdfdcde6374346e75b7f9f3869dc42aea81c800dda
+Filename: pool/main/z/zenpad/zenpad_1.5.0_all.deb
+Size: 45816
+MD5sum: 56f880cf6619d3ca72d58233b5f4d118
+SHA1: 179456d5b73fcd2ef137e534b7c0f80443206de1
+SHA256: 161a445ab2ac5cbc14e095e5ccebefd90902d87353955e767d49cd035fd6a61a
 Section: editors
 Priority: optional
 Description: Lightweight text editor based on GTK+
